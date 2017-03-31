@@ -1,0 +1,140 @@
+@font-face {
+    font-family: PoetsenOne;
+    src: url(/font/PoetsenOne-Regular.ttf);
+}
+
+body { 
+
+    padding-top: 70px; 
+    background-color: #e1e1e1;
+}
+
+section{
+    background-color: #f1f1f1;
+    padding:5vw !important;
+    padding-top: 2vw !important; padding-bottom: 2vw ! important;
+    border-bottom: 1px dashed #B0BCD5;
+}
+
+article img{
+    width: 90%;
+    margin:auto;
+    display:block;
+    margin-bottom: 30px;
+}
+
+header{
+    margin-bottom: 50px;
+}
+header .date{
+    color: grey;
+}
+.header_img{
+
+    height: 300px;
+    line-height: 300px;
+    margin:auto;
+    margin-top: 20px;
+    width:90%;
+    text-align:center;
+}
+.header_img img{
+    max-height: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+p{
+    padding: 10px;
+    text-align: justify;
+}
+
+h1{
+    font-size: 32px;
+    font-family: PoetsenOne;
+    color: #3B5998 ;
+}
+h2{
+    font-size: 25px;
+    font-family: PoetsenOne;
+    color: #627aac ;
+}
+h3{
+    font-size: 20px;
+    font-family: PoetsenOne;
+    color: #899bc1 ;
+}
+
+}
+
+
+#footer{
+    margin: 15vw;
+    margin-top: 10vh;
+    padding-top:3vh;
+    margin-bottom: 3vh;
+    border-top: #B0BCD5 solid 1px;
+    color:#627AAC;
+}
+
+
+/**** NAV ***/
+.navbar{
+    background-color: #3B5998;
+    color: white;
+}
+
+.navbar .active, a:hover{
+    color: #f3f7fc !important;
+    background-color:#627AAC !important;
+}
+.icon-bar{
+    background-color:#f3f7fc;
+}
+.navbar-brand{
+    color:#f3f7fc;
+    font-family: PoetsenOne;
+    font-size: 27px;
+}
+.nav *{
+    color:#f3f7fc;
+    font-family: PoetsenOne;
+    font-size : 20px;
+}
+
+.nav li a.dropdown-toggle{
+    padding:0 !important;
+    height:50px;
+}
+.nav li a.dropdown-toggle > span{
+
+line-height: 50px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 0px;
+position: relative;
+top: -4px;
+}
+.nav .flag{
+    height:20px;
+}
+
+.dropdown-menu{
+    background-color: #627AAC;
+    color: white;
+}
+.dropdown-menu .flag{
+    margin-right: 20px;
+}
+.dropdown-menu a{
+    color: white;
+}
+@media (max-width: 767px){
+    .nav li a{
+        line-height: 40px;
+        vertical-align: bottom;
+    }
+
+}
+
+/***** FIN NAV ***********/

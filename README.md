@@ -1,2 +1,5 @@
-# little_web_projects
-Many little websites projects I made. This repo help me to keep history of them. 
+# FBMAMIE
+
+I made this site for my grand mother who wishing using facebook. 
+I may finish it one day...
+
