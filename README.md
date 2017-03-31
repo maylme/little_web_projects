@@ -1,2 +1,4 @@
-# little_web_projects
-Many little websites projects I made. This repo help me to keep history of them. 
+# personal website 
+
+in php responsive personal website
+

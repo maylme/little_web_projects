@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="242.82397"
+   height="171.59"
+   id="svg3147"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nouveau document 5">
+  <defs
+     id="defs3149" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="190.84411"
+     inkscape:cy="136.92645"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1079"
+     inkscape:window-height="432"
+     inkscape:window-x="2197"
+     inkscape:window-y="391"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-253.58801,-446.56718)">
+    <g
+       transform="translate(-499.14801,219.82318)"
+       id="Imprimante">
+      <g
+         id="base_2_">
+        <path
+           style="fill:#646d65"
+           inkscape:connector-curvature="0"
+           d="m 995.56,363.636 c 0,7.498 -8.99,14.107 -20.084,14.107 H 773.113 c -11.094,0 -20.376,-6.609 -20.376,-14.107 V 311.71 c 0,-7.496 9.283,-13.388 20.376,-13.388 h 202.36 c 11.092,0 20.084,5.891 20.084,13.388 v 51.926 h 0.003 z"
+           id="path88" />
+        <ellipse
+           d="m 982.96701,323.32001 c 0,1.94404 -1.47075,3.52 -3.285,3.52 -1.81426,0 -3.285,-1.57596 -3.285,-3.52 0,-1.94404 1.47074,-3.52 3.285,-3.52 1.81425,0 3.285,1.57596 3.285,3.52 z"
+           style="fill:#00cfff"
+           sodipodi:ry="3.52"
+           sodipodi:rx="3.2850001"
+           sodipodi:cy="323.32001"
+           sodipodi:cx="979.68201"
+           cx="979.68201"
+           cy="323.32001"
+           rx="3.2850001"
+           ry="3.52"
+           id="ellipse90" />
+        <ellipse
+           d="m 982.41902,333.61099 c 0,1.9446 -1.47164,3.521 -3.287,3.521 -1.81536,0 -3.287,-1.5764 -3.287,-3.521 0,-1.94459 1.47164,-3.521 3.287,-3.521 1.81536,0 3.287,1.57641 3.287,3.521 z"
+           style="fill:#ff0037"
+           sodipodi:ry="3.5209999"
+           sodipodi:rx="3.2869999"
+           sodipodi:cy="333.61099"
+           sodipodi:cx="979.13202"
+           cx="979.13202"
+           cy="333.61099"
+           rx="3.2869999"
+           ry="3.5209999"
+           id="ellipse92" />
+        <ellipse
+           d="m 974.20502,323.32001 c 0,1.94404 -1.4703,3.52 -3.284,3.52 -1.8137,0 -3.284,-1.57596 -3.284,-3.52 0,-1.94404 1.4703,-3.52 3.284,-3.52 1.8137,0 3.284,1.57596 3.284,3.52 z"
+           style="fill:#00ff12"
+           sodipodi:ry="3.52"
+           sodipodi:rx="3.2839999"
+           sodipodi:cy="323.32001"
+           sodipodi:cx="970.92102"
+           cx="970.92102"
+           cy="323.32001"
+           rx="3.2839999"
+           ry="3.52"
+           id="ellipse94" />
+        <rect
+           style="fill:#313a32"
+           x="752.73602"
+           y="352.25"
+           width="242.82001"
+           height="46.084"
+           id="rect96" />
+      </g>
+      <g
+         id="feuille_1_">
+        <animateTransform
+           type="translate"
+           fill="remove"
+           dur="2s"
+           begin="Imprimante.mouseenter"
+           to="0,70"
+           from="-0,0"
+           attributeName="transform"
+           repeatCount="1"
+           accumulate="none"
+           restart="always"
+           additive="replace"
+           calcMode="linear"
+           end="Imprimante.mouseleave"
+           attributeType="XML"
+           id="animateTransform77" />
+        <rect
+           style="fill:#ffffff"
+           id="feuille"
+           x="814.185"
+           y="226.744"
+           width="121.906"
+           height="151" />
+        <text
+           transform="translate(820.667,345)"
+           id="text100">Télécharger</text>
+        <text
+           transform="translate(820.667,360)"
+           id="text102">mon CV</text>
+      </g>
+      <g
+         id="devant">
+        <path
+           style="fill:#646d65"
+           inkscape:connector-curvature="0"
+           id="cache_haut"
+           d="m 948.975,344.368 c 0,4.621 -6.527,7.882 -13.29,7.882 H 812.351 c -6.762,0 -12.041,-3.26 -12.041,-7.882 v -32.011 c 0,-4.622 5.279,-8.153 12.041,-8.153 h 123.334 c 6.763,0 13.29,3.532 13.29,8.153 v 32.011 z" />
+        <rect
+           style="fill:#313a32"
+           id="cache_bas"
+           x="752.73602"
+           y="351.26999"
+           width="242.82001"
+           height="34.317001" />
+        <rect
+           style="fill:#92ead9"
+           id="vitre"
+           x="855.81201"
+           y="317.93201"
+           width="35.681"
+           height="18.629" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,144 @@
+@font-face {
+    font-family: nowHereBound;
+    src: url(/font/Nowherebound.ttf);
+}
+
+
+
+body { 
+
+    padding-top: 70px; 
+    background-color: #5c5299; /** #6ccec8  #eedbf3 **/
+    background-image:url("/img/space_inv.svg") ;
+    background-repeat: repeat;
+    /*background-attachment: fixed;*/
+    background-position:center;
+    background-size:30%;
+}
+section{
+    background-color: #f1f1f1;
+    padding:5vw !important;
+    padding-top: 2vw !important; padding-bottom: 2vw ! important
+    box-shadow: 0px 2px 1px 0px #656565;
+    margin-bottom: 20px;
+}
+
+header{
+    margin-bottom: 50px;
+}
+header .date{
+    color: grey;
+}
+.header_img{
+
+   /* height: 300px;
+    line-height: 300px;*/
+    margin:auto;
+    margin-top: 20px;
+    width:90%;
+    text-align:center;
+}
+.header_img img{
+    max-height: 300px;
+    max-width: 100%;
+    text-align: center;
+}
+
+p{
+    padding: 10px;
+    text-align: justify;
+}
+
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 20px;
+}
+
+
+#footer{
+    margin: 15vw;
+    margin-top: 10vh;
+    padding-top:3vh;
+    margin-bottom: 3vh;
+    border-top: #636363 solid 1px;
+    color:white;
+}
+#footer div {
+}
+
+/**** NAV ***/
+.navbar{
+    background-color: #5096d1;
+    color: white;
+}
+
+.navbar .active, a:hover{
+    color: #f3f7fc !important;
+    background-color:#3c8acc !important;
+}
+.icon-bar{
+    background-color:#f3f7fc;
+}
+.navbar-brand{
+    color:#f3f7fc;
+    font-family: nowHereBound;
+    font-size: 32px;
+}
+.nav *{
+    color:#f3f7fc;
+    font-family: nowHereBound;
+    font-size : 23px;
+}
+
+.nav li .nav_icon{
+    display:none;
+    height: 30px;
+    width: 40px;
+    margin-right: 20px;
+}
+.nav li a.dropdown-toggle{
+    padding:0 !important;
+    height:50px;
+}
+.nav li a.dropdown-toggle > span{
+
+line-height: 50px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 0px;
+position: relative;
+top: -4px;
+}
+.nav .flag{
+    height:20px;
+}
+
+.dropdown-menu{
+    background-color: #64a2d6;
+    color: white;
+}
+.dropdown-menu .flag{
+    margin-right: 20px;
+}
+.dropdown-menu a{
+    color: white;
+}
+@media (max-width: 767px){
+    .nav li .nav_icon{
+        display:inline-block;
+
+    }
+    .nav li .nav_icon img{
+        max-width: 40px;
+        max-height: 30px;
+    }
+    .nav li a{
+        line-height: 40px;
+        vertical-align: bottom;
+    }
+
+}
+
+/***** FIN NAV ***********/
