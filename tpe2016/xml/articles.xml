@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE articles SYSTEM "articles.dtd">
+<articles>
+	<article id="_1" title="titre1" date="20-07-2012">
+		<title lvl="1">un petit titre</title>
+		<p>un paragraphe sous mon petit titre, je pourai mettre du lorem ipsum mais faut pas deconner non plus! loulouloul!!! \o/</p>
+		<diapo>
+			<image src="img.png"/>
+			<image src='img2.png'/>
+		</diapo>
+		<p> Encore un paragraphe de merde </p>
+		<image src="img3.png" caption='titre de mon image'/>
+		<title lvl="2"> Code </title>
+	</article>
+
+</articles>

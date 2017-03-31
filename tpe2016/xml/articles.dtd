@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT articles (article*)>
+  <!ELEMENT article ((title | p | diapo | image)*)>
+    <!ATTLIST  article id ID #REQUIRED  title CDATA #REQUIRED date CDATA #REQUIRED> 
+    <!ELEMENT title (#PCDATA)>
+    	<!ATTLIST title lvl CDATA #REQUIRED>
+    <!ELEMENT p (#PCDATA)>
+    <!ELEMENT diapo (image*)>
+    <!ELEMENT image EMPTY>
+    	<!ATTLIST image src CDATA #REQUIRED caption CDATA #IMPLIED>

@@ -1,2 +1,3 @@
-# little_web_projects
-Many little websites projects I made. This repo help me to keep history of them. 
+# TPE website presentation
+
+WebSite made for my little brother presenting his TPE project in 2016.  
