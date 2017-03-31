@@ -1,0 +1,60 @@
+<h1 id = "connect"> Disconnected </h1>
+
+
+<h2> Oz de la Boite de commande : </h2>
+<div id="box">
+    <img id= "up" src="./up.png">
+    <img id= "blind" src="./blind.png">
+    <img id= "tire" src="./tire.png">
+    <img id= "link" src="./link.png">
+    <img id= "down" src="./down.png">
+    <img id= "light_pb" src="./light.png">
+    <img id= "thanks" src="./thanks.png">
+    <img id= "trunk" src="./trunk.png">
+</div>
+<h2>  Send message from an other car </h2>
+<div id ="car">
+    <img id= "car_thanks" src="./thanks.png">
+    <img id= "car_trunk" src="./trunk.png">
+</div>
+
+<style type="text/css">
+    img{
+        height: 200px;
+        margin:20px;
+    }
+    img:active{
+    	border:solid blue 1px;
+    }
+</style>
+
+
+
+<script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+<script
+			  src="https://code.jquery.com/jquery-3.1.1.js"
+			  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+			  crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+  	var socket = io.connect('http://mayl.me:4200');
+
+    socket.on("connect", (server) => {
+        console.log("connected");
+        $("#connect").html("Connected ! ");
+
+        $("#box img").click(function(event){
+            console.log($(this).attr("id"));
+            socket.emit("Ozbox_command", $(this).attr("id"));
+        });
+
+        $("#car img").click(function(event){
+            console.log($(this).attr("id"));
+            socket.emit("Oz_message", $(this).attr("id").split('car_')[1]);
+        });
+        
+    });
+
+
+
+</script>
