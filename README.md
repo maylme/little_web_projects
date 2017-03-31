@@ -1,2 +1,3 @@
-# little_web_projects
-Many little websites projects I made. This repo help me to keep history of them. 
+# my personnal website
+
+for the moment... I should redo it in no php..
