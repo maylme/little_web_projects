@@ -1,5 +1,3 @@
-# BAKASENPAI
+# CountDown
 
-Just a web page to try on massonry.js
-
-
+Just a js countDown I've made a long time ago... 

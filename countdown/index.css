@@ -1,0 +1,95 @@
+#countbox1{
+	color:#CA0051;
+	text-align:center;
+	font-size:400%;
+    font-weight: bold;
+    font-family:Impact, Fixed, monospace;
+    
+    position: absolute;
+	top: 18%;
+	left: 20% ;
+	right: 20%;
+}
+
+#countbox2{
+	color:#CA0051;
+	text-align:center;
+	font-size:400%;
+    font-weight: bold;
+    font-family:Impact, Fixed, monospace;
+
+}
+
+#qulbutoke{
+	position: absolute;
+	top: 5%;
+	right: 5%;
+}
+
+#twilight{
+	position: absolute;
+	top: 10%;
+	right: 5%;
+}
+
+#clap{
+	position: absolute;
+	top: 30%;
+	right: 10%;
+}
+
+#derpy{
+	position: absolute;
+	top: 20%;
+	right: 10%;
+}
+
+#mad{
+	position: absolute;
+	top: 20%;
+	right: 5%;
+}
+
+h1{
+	color:#CA0051;
+	text-align:center;
+	font-size:300%;
+    font-weight: bold;
+    font-family:Impact, Fixed, monospace;
+}
+a{
+	color:#CA0051;
+}
+
+td{
+	text-align: center;
+	margin:0;
+}
+
+#pikalove{
+margin-top: 50%;
+}
+#twilight{
+margin-top: 10%;
+}
+
+#pinkie{
+margin-top:0;
+marign:0;
+}
+
+table{
+width: 95%;
+position:absolute;
+bottom:0;
+margin: 0;
+}
+
+html{
+	background:#FFDCEA;
+	margin:0;
+}
+body{
+	margin:0;
+}
+
