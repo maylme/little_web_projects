@@ -1,0 +1,25 @@
+{
+  "name": "maylme",
+  "homepage": "https://github.com/maylme/little_web_projects",
+  "authors": [
+    "maylme <mesnier@mayl.me>"
+  ],
+  "description": "my site",
+  "main": "index.html",
+  "keywords": [
+    "perso"
+  ],
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.7.24",
+    "jquery": "^3.2.1"
+  }
+}
